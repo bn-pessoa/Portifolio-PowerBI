@@ -8,4 +8,4 @@ Portifólio criado na intensão de mostrar os resultados dos meus estudos de Pow
 - [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiMjk4YTA4OTUtNzg1Yi00ODFhLWJlZDEtMWI0ZDYxYWZlOGY4IiwidCI6IjkzYjY2MjM4LTlhYzUtNDUyZC05OGFmLWYxMWJmNTllNGQ5ZSJ9)
 - [Dashboard Relaório de RH](https://app.powerbi.com/view?r=eyJrIjoiMTlmNTliYzItNjEwOC00ZmI0LWI3YjQtMTEwZTdiOWMyODc0IiwidCI6IjkzYjY2MjM4LTlhYzUtNDUyZC05OGFmLWYxMWJmNTllNGQ5ZSJ9)
 
-![Alguma coisa](Vídeo_sem_título_‐_Feito_com_o_Clipchamp_AdobeExpress.gif)
+![Alguma coisa](https://imgur.com/a/ZtCZQNL)
