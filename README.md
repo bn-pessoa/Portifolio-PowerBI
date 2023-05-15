@@ -9,3 +9,6 @@ Portifólio criado na intensão de mostrar os resultados dos meus estudos de Pow
 - [Dashboard Relaório de RH](https://app.powerbi.com/view?r=eyJrIjoiMTlmNTliYzItNjEwOC00ZmI0LWI3YjQtMTEwZTdiOWMyODc0IiwidCI6IjkzYjY2MjM4LTlhYzUtNDUyZC05OGFmLWYxMWJmNTllNGQ5ZSJ9)
 
 
+### Petshop 
+
+![Gif que exemplifica o funcionando do Dashboard Petshop](https://imgur.com/a/ZtCZQNL)
